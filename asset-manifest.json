@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/maria-react1/static/css/main.c4174c4e.chunk.css",
+    "main.js": "/maria-react1/static/js/main.4a3e9773.chunk.js",
+    "main.js.map": "/maria-react1/static/js/main.4a3e9773.chunk.js.map",
+    "runtime-main.js": "/maria-react1/static/js/runtime-main.051307ae.js",
+    "runtime-main.js.map": "/maria-react1/static/js/runtime-main.051307ae.js.map",
+    "static/css/2.fdbd23dc.chunk.css": "/maria-react1/static/css/2.fdbd23dc.chunk.css",
+    "static/js/2.cb1fb758.chunk.js": "/maria-react1/static/js/2.cb1fb758.chunk.js",
+    "static/js/2.cb1fb758.chunk.js.map": "/maria-react1/static/js/2.cb1fb758.chunk.js.map",
+    "static/js/3.8ba3b8a0.chunk.js": "/maria-react1/static/js/3.8ba3b8a0.chunk.js",
+    "static/js/3.8ba3b8a0.chunk.js.map": "/maria-react1/static/js/3.8ba3b8a0.chunk.js.map",
+    "index.html": "/maria-react1/index.html",
+    "static/css/2.fdbd23dc.chunk.css.map": "/maria-react1/static/css/2.fdbd23dc.chunk.css.map",
+    "static/css/main.c4174c4e.chunk.css.map": "/maria-react1/static/css/main.c4174c4e.chunk.css.map",
+    "static/js/2.cb1fb758.chunk.js.LICENSE.txt": "/maria-react1/static/js/2.cb1fb758.chunk.js.LICENSE.txt",
+    "static/media/city-guide-app.e4843bd0.png": "/maria-react1/static/media/city-guide-app.e4843bd0.png",
+    "static/media/netflix.5a78c4b9.png": "/maria-react1/static/media/netflix.5a78c4b9.png",
+    "static/media/portfolio.e4d369bc.png": "/maria-react1/static/media/portfolio.e4d369bc.png",
+    "static/media/task-manager.7cdcc29e.png": "/maria-react1/static/media/task-manager.7cdcc29e.png",
+    "static/media/App.css": "/maria-react1/static/media/wall-and-laptop-background.f9e274f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.051307ae.js",
+    "static/css/2.fdbd23dc.chunk.css",
+    "static/js/2.cb1fb758.chunk.js",
+    "static/css/main.c4174c4e.chunk.css",
+    "static/js/main.4a3e9773.chunk.js"
+  ]
+}
